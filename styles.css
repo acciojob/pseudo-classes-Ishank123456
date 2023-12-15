@@ -15,7 +15,7 @@ article p:nth-child(2) {
   /* Standard text color */
 }
 
-article p:nth-child(3){
+article p:nth-child(3) {
   color: red;
 }
 
