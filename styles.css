@@ -8,7 +8,11 @@ body{
 #g{
 	color:red;
 }
-#h{
+ul>li{
+	background-color:grey;
 	width:50%;
 	padding:10px;
+}
+ul>nth:child(odd){
+	font-size:22px;
 }
