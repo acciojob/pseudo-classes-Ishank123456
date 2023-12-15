@@ -2,22 +2,13 @@
   background-color: rgb(135, 206, 235);
 }
 
-body {
-  margin: 0;
-}
-
 article p:first-child {
   background-color: black;
-  color: white;
+  color:white;
 }
 
 article p:last-child {
   color: red;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
 }
 
 ul li {
